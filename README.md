@@ -1,5 +1,5 @@
 # MMCKT
-Multi-Modal Cross-region Knowledge Transfer for Next POI Recommendations
+Multi-Modal Cross-region Knowledge Transfer for Next POI Recommendations.
 Our datasets are collected from the following links. https://drive.google.com/drive/folders/160Tj6Oq0-jvGOHOU11E30PwvxPckjbfV?usp=sharing.   
 1.model_ST.py is the Python code that stores the model.  
 2.main_ST.py A is the code for training the model, saving the model weight file and obtaining the result.  
