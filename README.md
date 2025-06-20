@@ -1,5 +1,5 @@
 # PMCKT
-Prompt-Enhanced Multi-Modal Cross-region Knowledge Transfer for Next POI Recommendations.
+Prompt-Enhanced Multi-Modal Cross-region Knowledge Transfer for POI Recommendations.
 # Datasets
 Our datasets are collected from the following links. https://drive.google.com/drive/folders/1arGcLk9hUrL8XhyUM1iAYPiZZV6ZFH5A?usp=drive_link.  
 # Quick Start
